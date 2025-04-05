@@ -1,4 +1,3 @@
-Sure! Here's the entire Git project execution written in proper **Markdown (.md)** format:
 
 ---
 
