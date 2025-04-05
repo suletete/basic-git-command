@@ -120,9 +120,6 @@ git push origin add-contact-info
 
 ---
 
-✅ You’ve successfully completed Part 1 & 2 of the Git project!
-
-Would you like me to continue with Part 3 – **Merging, Pull Requests, and Conflict Resolution**?
 
 ```
 
